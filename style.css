@@ -1,0 +1,51 @@
+.Contaonor{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #0077ff;
+    border-radius: 10px;
+    box-shadow: 5;
+}
+
+.StopWacht{
+    height: 70px;
+    background-color: rgb(61, 210, 255);
+    margin-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+.iner{
+    display: flex;
+    background-color: rgb(61, 210, 255);
+    margin: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 10px;
+}
+
+
+.buttens button{
+    height: 35px;
+    background-color: rgb(61, 210, 255);
+    border: 3px solid rgb(74, 74, 255);
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+.Start:active{
+    background-color: rgb(42, 108, 250);
+}
+.puse:active{
+    background-color: rgb(49, 49, 253);
+}
+.reset:active{
+    background-color: red;
+}
+
+
+
